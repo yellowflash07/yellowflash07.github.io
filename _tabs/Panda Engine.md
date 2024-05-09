@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 layout: blog
-icon: fas fa-info-circle
+icon: fas fa-solid fa-paw
 order: 4
 ---
 

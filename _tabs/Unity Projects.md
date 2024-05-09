@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 layout: blogUnity
-icon: fas fa-info-circle
+icon: fas fa-brands fa-unity
 order: 5
 ---
 

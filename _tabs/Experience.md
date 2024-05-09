@@ -1,6 +1,7 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
+layout: page
+icon: fas fa-duotone fa-briefcase
 order: 4
 ---
 

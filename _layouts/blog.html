@@ -60,11 +60,11 @@ refactor: true
             {% capture lqip %}lqip="{{ post.image.lqip }}"{% endcapture %}
           {% endif %}
 
-          <div class="col-md-5">
+          <div class="col-md-100">
             <img src="{{ src }}" alt="{{ alt }}" {{ lqip }}>
           </div>
 
-          {% assign card_body_col = '107' %}
+          {% assign card_body_col = '7' %}
         {% endif %}
 
         <div class="col-md-{{ card_body_col }}">
@@ -81,8 +81,8 @@ refactor: true
             <div class="post-meta flex-grow-1 d-flex align-items-end">
               <div class="me-auto">
                 <!-- posted date -->
-                <i class="far fa-calendar fa-fw me-1"></i>
-                {% include datetime.html date=post.date lang=lang %}
+                <!-- <i class="far fa-calendar fa-fw me-1"></i> -->
+                {% include datetime.html %}
 
                 <!-- categories -->
                 {% if post.categories.size > 0 %}

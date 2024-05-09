@@ -5,7 +5,7 @@ author: Ershad
 date: 2019-08-08 11:33:00 +0800
 categories: []
 tags: []
-pin: true
+pin: false
 math: true
 mermaid: true
 blog: true
