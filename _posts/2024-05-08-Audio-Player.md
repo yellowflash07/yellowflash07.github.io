@@ -10,7 +10,7 @@ math: true
 mermaid: true
 otherProject: true
 image:
-  path: assets/img/PandaEngine/artificial-intelligence.jpg
+  path: assets/img/PandaEngine/mp3player.png
   lqip:
   alt: 
 ---
@@ -19,5 +19,7 @@ image:
 
 Audio player made using FMOD and C++. Gui using ImGui.
 
-![Alt Text](assets/img/PandaEngine/ai1.gif)
+## Demo
+
+{% include embed/youtube.html id='WaunNzuCNno' %}
 
