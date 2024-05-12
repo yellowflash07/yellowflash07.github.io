@@ -4,8 +4,6 @@ icon: fas fa-solid fa-school
 order: 1
 ---
 
-## Education
-
 **Fanshawe College**
 - *Game Development Advanced Programming*
 - CGPA 4.17/4.20
@@ -23,5 +21,4 @@ order: 1
 
  *Skills Acquired* : Physics, python, HTML, math.
 
-## Certifications
 
