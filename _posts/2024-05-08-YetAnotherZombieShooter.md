@@ -10,7 +10,7 @@ math: true
 mermaid: true
 blog: true
 image:
-  path: assets/img/PandaEngine/poster.png
+  path: assets/img/PandaEngine/game-poster.png
   lqip:
   alt: 
 ---
